@@ -4,3 +4,4 @@ My name is Matías and I am an enthusiastic person, proactive and open to challe
 
 [<img align="left" alt="Matias Maidana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/matias-maidana-02497b264/
