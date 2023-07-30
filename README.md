@@ -13,7 +13,7 @@ In the Soy Henry bootcamp I have developed a single page application, over the c
 
 [<img align="left" alt="Matias Maidana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br />
 
 
 
@@ -23,6 +23,7 @@ In the Soy Henry bootcamp I have developed a single page application, over the c
 ![TypeScript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
 
 ## Tools:
 
