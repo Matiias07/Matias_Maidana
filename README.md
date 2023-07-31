@@ -9,6 +9,9 @@ In the Soy Henry bootcamp I have developed a single page application, over the c
 
 😎 I am committed to acquiring new skills and knowledge to create innovative solutions and I am looking for opportunities to apply and expand my skills in a professional setting.
 
+😁 Contact me!
+📱 +54 01131341025
+
 ## Connect with me:
 
 [<img align="left" alt="Matias Maidana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
